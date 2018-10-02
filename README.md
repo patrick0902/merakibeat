@@ -61,7 +61,7 @@ merakibeats -e -d *
 ## Building Source code
 https://github.com/CiscoDevNet/merakibeat/blob/scanner/CONTRIBUTING.md
 
-
+[Config](./config/config.go)
 
 
 
