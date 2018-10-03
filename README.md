@@ -49,7 +49,7 @@ Following are fields to control sections that will be collected by data collecto
 	 
 All these field are configured in merakibeat.yml config file
 
-## Running merakibeat
+## Running merakibeat ##
 ### As docker-composer (**Recommended**)
 https://github.com/CiscoDevNet/merakibeat/blob/master/docker-compose/README.md
 
