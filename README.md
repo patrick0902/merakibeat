@@ -1,3 +1,5 @@
+[![published](https://developer.cisco.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ReactTraining/react-router)
+
 # Merakibeat
 
 This is elastic beats (https://www.elastic.co/products/beats) plugin for Meraki 
