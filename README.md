@@ -1,4 +1,4 @@
-[![published](https://developer.cisco.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ReactTraining/react-router)
+[![published](https://devnetapps.cisco.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ReactTraining/react-router)
 
 # Merakibeat
 
